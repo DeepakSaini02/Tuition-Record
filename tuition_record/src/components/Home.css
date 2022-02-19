@@ -1,0 +1,31 @@
+.main {
+  display: flex;
+  justify-content: right;
+
+  color: honeydew;
+  height: 41px;
+  align-items: center;
+  gap: 1rem;
+  background-image: linear-gradient(to right, rgb(169 72 209), rgb(34 167 167));
+}
+.btn1 {
+  color: white;
+  background-color: blue;
+  border-radius: 7%;
+  padding: 5px;
+  border: none;
+  margin-right: 3rem;
+}
+.return {
+  border: 20px solid cornflowerblue;
+
+  margin: 10px auto;
+  background-color: whitesmoke;
+  color: brown;
+}
+.input {
+  margin-right: 2rem;
+  outline: none;
+  border-radius: 2%;
+  border: none;
+}
